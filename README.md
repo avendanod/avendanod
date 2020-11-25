@@ -1,8 +1,8 @@
 # Saludos, Que tal! 
 ## David Avendaño Pinzón
- - CODATOS.NET :office:
- - Desarrollo PHP. La Mayoria de mis productos están desarollados en este lenguaje :+1:
- - Actualmente me encuentro mejorando mis habilidades con React & Python :computer:
+ - CODATOS.NET - (http://www.codatos.net/codatos/index.php)
+ - Desarrollo PHP. La Mayoria de mis productos están desarollados en este lenguaje.
+ - Actualmente me encuentro mejorando mis habilidades con React & Python.
  - Desarrollo de complementos EXCEL y soluciones basadas en VBA (MS OFFICE)
  - Soporte y Capacitación en uso y desarrollo de proyectos MS OFFICE
  
