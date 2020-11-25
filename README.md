@@ -3,6 +3,8 @@
  - CODATOS.NET :office:
  - Desarrollo PHP. La Mayoria de mis productos están desarollados en este lenguaje :+1:
  - Actualmente me encuentro mejorando mis habilidades con React & Python :computer:
+ - Desarrollo de complementos EXCEL y soluciones basadas en VBA (MS OFFICE)
+ - Soporte y Capacitación en uso y desarrollo de proyectos MS OFFICE
  
 ## Tecnologías Actuales
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -19,6 +21,10 @@
 
 ## Manejo Experto/Instructor/Coaching
 ![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![ACCESS](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
+![EXCEL](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![ACCESS](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
 
+## Cursos Disponibles
+Capacitación y formación de grupos o individuos mediante Video-conferencia o In-Company (Planes Flexibles)
+- Excel **Desde Básico hasta Avanzado** Un enfoque orientado a las soliciones
+- PowerPoint **Presentaciones mediate PowerPoint** Como evitar "El Envenamiento por PowerPoint"
