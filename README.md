@@ -3,7 +3,6 @@
  - CODATOS.NET :office:
  - Desarrollo PHP. La Mayoria de mis productos están desarollados en este lenguaje :+1:
  - Actualmente me encuentro mejorando mis habilidades con React & Python :computer:
- - 
  
 ## Tecnologías Actuales
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
