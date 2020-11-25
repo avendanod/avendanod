@@ -1,5 +1,5 @@
-# Saludos...
-## Que tal! Soy David Avendaño Pinzón
+# Saludos, Que tal! 
+## David Avendaño Pinzón
  - CODATOS.NET :office:
  - Desarrollo PHP. La Mayoria de mis productos están desarollados en este lenguaje :+1:
  - Actualmente me encuentro mejorando mis habilidades con React & Python :computer:
