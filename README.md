@@ -28,5 +28,9 @@
 
 ## Cursos Disponibles
 Capacitación y formación de grupos o individuos mediante Video-conferencia o In-Company (Planes Flexibles)
-- Excel **Desde Básico hasta Avanzado** Un enfoque orientado a las soliciones
-- PowerPoint **Presentaciones mediate PowerPoint** Como evitar "El Envenamiento por PowerPoint"
+
+## Excel 
+**Desde Básico hasta Avanzado** Un enfoque orientado a las soluciones, se enfatiza en la solución más que en la herramienta.
+
+## PowerPoint
+**Presentaciones mediate PowerPoint** Como evitar _"El Envenamiento por PowerPoint"_. Orientado a comunicar utilizando técnicas para focalizar lo que se quiere transmitir.
