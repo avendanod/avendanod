@@ -1,10 +1,12 @@
 # Saludos, Que tal! 
 ## David Avendaño Pinzón
  - Página Web: [CODATOS.NET](http://www.codatos.net/codatos/index.php)
- - Desarrollo PHP. La Mayoria de mis productos están desarollados en este lenguaje.
- - Actualmente me encuentro mejorando mis habilidades con React & Python.
+ - Ofrecemos soluciones: Simples, funcionales y dirigidas a solucionar su necesidad.
+ - Desarrollo de Aplicaciones web basadas en arquitectura WAMP.
+ - Diseño y desarrollo de Web Sites.
  - Desarrollo de complementos EXCEL y soluciones basadas en VBA (MS OFFICE)
  - Soporte y Capacitación en uso y desarrollo de proyectos MS OFFICE
+ - Actualmente estamos mejorando las habilidades con React & Python.
  
 ## Tecnologías Actuales
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
