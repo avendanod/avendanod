@@ -1,6 +1,6 @@
 # Saludos, Que tal! 
 ## David Avendaño Pinzón
- - Página Web: [CODATOS.NET](http://www.codatos.net/codatos/index.php)
+ - Página Web: [CODATOS.NET](http://www.codatos.net/)
  - Ofrecemos soluciones: Simples, funcionales y dirigidas a solucionar su necesidad.
  - Desarrollo de Aplicaciones web basadas en arquitectura WAMP.
  - Diseño y desarrollo de Web Sites.
