@@ -1,6 +1,6 @@
 # Saludos, Que tal! 
 ## David Avendaño Pinzón
- - Página Web: [CODATOS.NET](http://www.codatos.net/)
+ - Página Web: [CODATOS.NET](http://www.avendanod/codatos.net)
  - Ofrecemos soluciones: Simples, funcionales y dirigidas a solucionar su necesidad.
  - Desarrollo de Aplicaciones web basadas en arquitectura WAMP.
  - Diseño y desarrollo de Web Sites.
@@ -9,6 +9,7 @@
  - Actualmente estamos mejorando las habilidades con React & Python.
  
 ## Tecnologías Actuales
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -19,7 +20,6 @@
 
 ## Actualización en proceso
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 ## Manejo Experto/Instructor/Coaching
 ![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
