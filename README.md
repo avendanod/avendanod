@@ -1,6 +1,6 @@
 # Saludos, Que tal! 
 ## David Avendaño Pinzón
- - Página Web: [avendanod.codatos.net](http://www.avendanod.codatos.net)
+ - Página Web: [avendanod.codatos.net](http://avendanod.codatos.net/)
  - Ofrecemos soluciones: Simples, funcionales y dirigidas a solucionar su necesidad.
  - Desarrollo de Aplicaciones web basadas en arquitectura WAMP.
  - Diseño y desarrollo de Web Sites.
@@ -10,9 +10,9 @@
  
 ## Tecnologías Actuales
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
