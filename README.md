@@ -2,9 +2,9 @@
 ## David Avendaño Pinzón
  - Página Web: [avendanod.codatos.net](http://avendanod.codatos.net/)
  - Ofrecemos soluciones: Simples, funcionales y dirigidas a solucionar su necesidad.
- - Desarrollo de Aplicaciones web basadas en arquitectura WAMP.
+ - Desarrollo de Aplicaciones web
  - Diseño y desarrollo de Web Sites.
- - Desarrollo de complementos EXCEL y soluciones basadas en VBA (MS OFFICE)
+ - Python, Javascriptm, HTML/CSS, SQL.
  - Soporte y Capacitación en uso y desarrollo de proyectos MS OFFICE
  - Actualmente estamos mejorando las habilidades con React & Python.
  
