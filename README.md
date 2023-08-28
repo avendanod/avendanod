@@ -1,5 +1,5 @@
 # DESARROLLO FULLSTACK !
-# SOLUCIONES WEB Y DE ESCRITORIO PARA STARTUPS, EMPRESAS, INDUSTRIAS Y NECESIDADES PERSONALES
+# Soluciones web y de escritorio para Startups, Empresas, Industrias y necesidades personales
 - Aplicaciones, Migraciones (PHP>Python), Websites y Capacitación
 ## David Avendaño Pinzón (d@p)
  - Página Web: [avendanod.codatos.net](https://tensify.net/)
