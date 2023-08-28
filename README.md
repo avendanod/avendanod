@@ -1,12 +1,12 @@
 # Saludos, Que tal! 
-## David Avendaño Pinzón
- - Página Web: [avendanod.codatos.net](http://avendanod.codatos.net/)
+## David Avendaño Pinzón (d@p)
+ - Página Web: [avendanod.codatos.net](https://tensify.net/)
  - Ofrecemos soluciones: Simples, funcionales y dirigidas a solucionar su necesidad.
  - Desarrollo de Aplicaciones web
  - Diseño y desarrollo de Web Sites.
- - Python, Javascriptm, HTML/CSS, SQL.
- - Soporte y Capacitación en uso y desarrollo de proyectos MS OFFICE
- - Actualmente estamos mejorando las habilidades con React & Python.
+ - Python, Javascript, HTML/CSS.
+ - MySQL, SQLite.
+ - Soporte y Capacitación.
  
 ## Tecnologías Actuales
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
