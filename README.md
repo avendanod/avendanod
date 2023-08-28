@@ -2,7 +2,7 @@
 # Soluciones web y de escritorio para Startups, Empresas, Industrias y necesidades personales
 - Aplicaciones, Migraciones (PHP>Python), Websites y Capacitación
 ## David Avendaño Pinzón (d@p)
- - Página Web: [avendanod.codatos.net](https://tensify.net/)
+ - Página Web: [tensify.net](https://tensify.net/)
  - Ofrecemos soluciones: Simples, funcionales y dirigidas a solucionar su necesidad.
  - Desarrollo de Aplicaciones web
  - Diseño y desarrollo de Web Sites.
