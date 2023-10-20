@@ -3,7 +3,7 @@
 - Soluciones simples, funcionales y dirigidas a sus necesidad.
 - Visítenos en: [tensify.net](https://tensify.net/)
 
-- Tambien puedes hechar un vistazo en FIVEER: [David en Fiveer](https://es.fiverr.com/avendanod)
+- Tambien puedes vistar mi perfil en FIVERR: [David en Fiverr](https://es.fiverr.com/avendanod)
  
 #  * SERVICIOS:
  - Desarrollo de Aplicaciones Web o de Escritorio: Para Startups, Empresas, Industrias y necesidades personales.
