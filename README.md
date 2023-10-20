@@ -1,14 +1,30 @@
 # DESARROLLO FULLSTACK !
-# Soluciones web y de escritorio para Startups, Empresas, Industrias y necesidades personales
+# SERVICIOS GLOBALES, ATENCIÓN PERSONAL
+- Soluciones web y de escritorio para Startups, Empresas, Industrias y necesidades personales
 - Aplicaciones, Migraciones (PHP>Python), Websites y Capacitación
-## David Avendaño Pinzón (d@p)
- - Página Web: [tensify.net](https://tensify.net/)
- - Ofrecemos soluciones: Simples, funcionales y dirigidas a solucionar su necesidad.
+- Ofrecemos soluciones: Simples, funcionales y dirigidas a solucionar su necesidad.
+- Visítenos en: [tensify.net](https://tensify.net/)
+ 
+## SERVICIOS
  - Desarrollo de Aplicaciones web
  - Diseño y desarrollo de Web Sites.
  - Python, Javascript, HTML/CSS.
  - MySQL, SQLite.
  - Soporte y Capacitación.
+ - 
+## SERVICIOS
+ # Analisis, Diseño, Desarrollo y Despliegue Aplicaciones Web:
+  - Básico: desde 750 US$
+  - Estándar: desde 1.500 US$
+  - Premium desde 2.150 US$
+ # Diseño y desarrollo de Web Sites:
+  - Básico: desde 400 US$
+  - Estándar: desde 770 US$
+  - Premium: desde 1.150 US$
+ # Proyecto basados en Excel 365:
+  - Básico: desde 95 US$
+  - Estándar: desde 200 US$
+  - Premium desde 500 US$
  
 ## Tecnologías Actuales
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
