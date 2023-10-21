@@ -65,6 +65,7 @@ Para ello, enfoqué mis esfuerzos en entregar mis productos y utilidades mediant
 
 Lamento no poner a disposición el código en los repositorios públicos ya tales proyectos son privados y no vamos a exponer nada bajo compromiso de confidencialidad ya que una parte importante del prestigio es la confianza.
 Pero si puedes visitar mi página web (https://tensify.net), allí expongo, en forma de imágenes, algunos aspectos resaltantes de los principales proyectos.
+
 Continúo actualizando mi catálogo de herramientas y estoy actualmente haciendo pruebas y "jugando" con React y NodeJS para ampliar el abanico de soluciones y estar al día de las últimas tendencias y novedades en el entorno del desarrollo web, así como otras importantes como el uso de contenedores Docker y plataforma de desarrollo móvil como Kotlin.
 
 Confieso que, aunque me gusta el trabajo colaborativo, a veces me he visto obligado a ingeniármelas con los recursos que puedo manejar por mi mismo y solucionar especialmente si hay un cliente de por medio, a ellos debemos cuidarlos y apreciarlos; Colaborar con otros desarrolladores es definitivamente una de las mejores maneras de crear soluciones.
