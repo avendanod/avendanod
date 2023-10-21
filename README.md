@@ -1,4 +1,4 @@
-#  * DESARROLLO FULLSTACK
+# DESARROLLO FULLSTACK
 *SERVICIOS GLOBALES, ATENCIÓN PERSONAL*
 - Soluciones simples, funcionales y dirigidas a sus necesidad.
 - Visítenos en: [tensify.net](https://tensify.net/)
@@ -47,7 +47,7 @@
 ![POWERPOINT](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![EXCEL](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
-# * CAPACITACIÓN y FORMACIÓN
+# * CAPACITACIÓN y FORMACIÓN:
 ##  Grupos o individuos mediante Video-conferencia o In-Company (Planes Flexibles)
 
 ## Excel 
@@ -57,3 +57,19 @@ Un enfoque orientado a las soluciones, se enfatiza en la solución más que en l
 ## PowerPoint
 *Una cura para el Envenenamiento por PowerPoint*:
 Como evitar _"El Envenamiento por PowerPoint"_. Orientado a comunicar utilizando técnicas para focalizar lo que se quiere transmitir.
+
+# * BIO:
+Un gran saludo y bienvenido a mi perfil de GitHub, soy David Avendaño Pinzón -d@p-, Diseñador y desarrollador de Apps basadas en la web. Soy del tipo intensamente entusiasmado por hacer cosas que funcionen, simples y seguras, que resuelvan problemas, de alto impacto en las actividades de los usuarios y que al final del día los ayude realmente a mejorar sus procesos. 
+
+Para ello, enfoqué mis esfuerzos en entregar mis productos y utilidades mediante: Python, PHP, JavaScript, HTML, CSS, MySQL y SQLite. Con el dominio de estas herramientas he llevado adelante múltiples proyectos web, tanto personales y de pruebas de concepto como de tipo profesional para clientes importantes en la industria petrolera, especialmente para clientes de México.
+
+Lamento no poner a disposición el código en los repositorios públicos ya tales proyectos son privados y no vamos a exponer nada bajo compromiso de confidencialidad ya que una parte importante del prestigio es la confianza.
+Pero si puedes visitar mi página web (https://tensify.net), allí expongo, en forma de imágenes, algunos aspectos resaltantes de los principales proyectos.
+Continúo actualizando mi catálogo de herramientas y estoy actualmente haciendo pruebas y "jugando" con React y NodeJS para ampliar el abanico de soluciones y estar al día de las últimas tendencias y novedades en el entorno del desarrollo web, así como otras importantes como el uso de contenedores Docker y plataforma de desarrollo móvil como Kotlin.
+
+Confieso que, aunque me gusta el trabajo colaborativo, a veces me he visto obligado a ingeniármelas con los recursos que puedo manejar por mi mismo y solucionar especialmente si hay un cliente de por medio, a ellos debemos cuidarlos y apreciarlos; Colaborar con otros desarrolladores es definitivamente una de las mejores maneras de crear soluciones.
+
+Luego de una jornada de bucles, arrays, tablas, mucho café y entusiasmo luego de localizar y corregir un bug, salir a trotar es de lo mejor. Si requieres más información sobre mis proyectos o piensas que te pudiera apoyar de alguna manera en tus iniciativas de software, con gusto conversamos.
+
+¡Gracias por visitar mi perfil!
+d@p
