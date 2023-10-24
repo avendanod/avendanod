@@ -18,15 +18,15 @@
  ## *Análisis, Diseño, Desarrollo y Despliegue Aplicaciones Web:*
   - Básico: desde 750 US$
   - Estándar: desde 1.500 US$
-  - Premium desde 2.150 US$
+  - Premium: *Consultar*
  ## *Diseño y desarrollo de Web Sites:*
   - Básico: desde 400 US$
   - Estándar: desde 770 US$
-  - Premium: desde 1.150 US$
+  - Premium: *Consultar*
  ## *Proyecto basados en Excel 365:*
   - Básico: desde 95 US$
   - Estándar: desde 200 US$
-  - Premium desde 500 US$
+  - Premium: *Consultar*
  ## *Capacitación Excel / PowerPoint:*
   - Básico: desde 200 US$ (Máximo 3 participantes modo Online - MS TEAMS)
   - Basico-Avanzado: Personal o In-Company CONTACTAR (avendanod@gmail.com)
