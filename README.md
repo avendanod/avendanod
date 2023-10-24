@@ -13,22 +13,31 @@
  - Python, PHP, Javascript, HTML/CSS.
 
 #  * PLANES DE SERVICIOS y COSTOS ESTIMADOS:
- - LOS PLANES PARA WEB APPS y WEB PAGES, INCLUYEN: HOSTING y 1 CUENTA DE EMAIL.
- - EL NOMBRE DE DOMINIO y su costo se ofrecen por separado o adquirido por el cliente
+ *_LOS PLANES PARA WEB APPS y WEB PAGES, INCLUYEN: HOSTING y 1 CUENTA DE EMAIL._*
+ 
+ *_EL NOMBRE DE DOMINIO y su costo se ofrecen por separado o adquirido por el cliente_*
+   
  ## *Análisis, Diseño, Desarrollo y Despliegue Aplicaciones Web:*
-  - Básico: desde 950 US$
-  - Estándar: desde 1.850 US$
-  - Premium: *Consultar*
+  - Básico: desde 1.800 US$
+  - Estándar: desde 3.600 US$
+  - Premium: desde 7.200 US$ *Esfuerzo centrado en su proyecto*
+    
  ## *Diseño y desarrollo de Web Sites:*
-  - Básico: desde 800 US$
-  - Estándar: desde 1.250 US$
-  - Premium: *Consultar*
- ## *Proyecto basados en Excel 365:*
-  - Básico: desde 95 US$
-  - Estándar: desde 250 US$
-  - Premium: *Consultar*
- ## *Capacitación Excel / PowerPoint:*
-  - Básico: desde 200 US$ (Máximo 3 participantes modo Online - MS TEAMS)
+  - Básico: desde 1.120 US$
+  - Estándar: desde 2.240 US$
+  - Premium: desde 4.480 US$ *Esfuerzo centrado en su proyecto*
+    
+ ## *Proyecto basados en Excel 365 + VBA:*
+  - desde 30 US$ x hora.
+  - Incluye soporte de consultas (WhatsaApp según disponibilidad)
+     
+ ## *Capacitación Excel:* curso: "Evolución de habilidades con EXCEL":
+  - Desde 350 US$ (Máximo 3 participantes modo Online - MS TEAMS)
+  - Incluye soporte de consultas (WhatsaApp según disponibilidad x 1 mes después de finalizar el curso) 
+  - Basico-Avanzado: Personal o In-Company CONTACTAR (avendanod@gmail.com)
+ ## *Capacitación PowerPoint:* curso: "Una cura para el Envenenamiento por PowerPoint"
+  - Desde 450 US$ (Máximo 3 participantes modo Online - MS TEAMS)
+  - Incluye soporte de consultas (WhatsaApp según disponibilidad x 1 mes después de finalizar el curso) 
   - Basico-Avanzado: Personal o In-Company CONTACTAR (avendanod@gmail.com)
     
 ## Tecnologías Actuales
@@ -52,11 +61,11 @@
 
 ## Excel 
 *Evolución de habilidades con EXCEL*:
-Un enfoque orientado a las soluciones, se enfatiza en la solución más que en la herramienta.
+Orientado a las soluciones, se enfatiza en el enfoque general de la solución más que en el uso propio de la herramienta. Módulo inicial del introducción donde se manejan conceptos claves.
 
 ## PowerPoint
 *Una cura para el Envenenamiento por PowerPoint*:
-Como evitar _"El Envenamiento por PowerPoint"_. Orientado a comunicar utilizando técnicas para focalizar lo que se quiere transmitir.
+Como evitar _"El Envenamiento por PowerPoint"_. Orientado a comunicar utilizando técnicas para desarrollar contenido de impacto. Módulo inicial del introducción donde se manejan conceptos claves en el proceso de comunicar.
 
 # * BIO:
 Un gran saludo y bienvenido a mi perfil de GitHub, soy David Avendaño Pinzón -d@p-, Diseñador y desarrollador de Apps basadas en la web. Soy del tipo intensamente entusiasmado por hacer cosas que funcionen, simples y seguras, que resuelvan problemas, de alto impacto en las actividades de los usuarios y que al final del día los ayude realmente a mejorar sus procesos. 
