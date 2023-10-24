@@ -16,16 +16,16 @@
  - LOS PLANES PARA WEB APPS y WEB PAGES, INCLUYEN: HOSTING y 1 CUENTA DE EMAIL.
  - EL NOMBRE DE DOMINIO y su costo se ofrecen por separado o adquirido por el cliente
  ## *Análisis, Diseño, Desarrollo y Despliegue Aplicaciones Web:*
-  - Básico: desde 750 US$
-  - Estándar: desde 1.500 US$
+  - Básico: desde 950 US$
+  - Estándar: desde 1.850 US$
   - Premium: *Consultar*
  ## *Diseño y desarrollo de Web Sites:*
-  - Básico: desde 400 US$
-  - Estándar: desde 770 US$
+  - Básico: desde 800 US$
+  - Estándar: desde 1.250 US$
   - Premium: *Consultar*
  ## *Proyecto basados en Excel 365:*
   - Básico: desde 95 US$
-  - Estándar: desde 200 US$
+  - Estándar: desde 250 US$
   - Premium: *Consultar*
  ## *Capacitación Excel / PowerPoint:*
   - Básico: desde 200 US$ (Máximo 3 participantes modo Online - MS TEAMS)
