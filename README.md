@@ -30,7 +30,7 @@
  ## *Proyecto basados en Excel 365 + VBA:*
   - desde 30 US$ x hora.
   - Incluye soporte de consultas (WhatsaApp según disponibilidad)
-     
+       
  ## *Capacitación Excel:* curso: "Evolución de habilidades con EXCEL":
   - Desde 350 US$ (Máximo 3 participantes modo Online - MS TEAMS)
   - Incluye soporte de consultas (WhatsaApp según disponibilidad x 1 mes después de finalizar el curso) 
