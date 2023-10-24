@@ -13,7 +13,7 @@
  - Python, PHP, Javascript, HTML/CSS.
 
 #  * PLANES DE SERVICIOS y COSTOS ESTIMADOS:
- - TODOS LOS PLANES INCLUYEN: HOSTING y 1 CUENTA DE EMAIL.
+ - LOS PLANES PARA WEB APPS y WEB PAGES, INCLUYEN: HOSTING y 1 CUENTA DE EMAIL.
  - EL NOMBRE DE DOMINIO y su costo se ofrecen por separado o adquirido por el cliente
  ## *Análisis, Diseño, Desarrollo y Despliegue Aplicaciones Web:*
   - Básico: desde 750 US$
