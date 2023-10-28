@@ -79,7 +79,7 @@ Continúo actualizando mi catálogo de herramientas y estoy actualmente haciendo
 
 Confieso que, aunque me gusta el trabajo colaborativo, a veces me he visto obligado a ingeniármelas con los recursos que puedo manejar por mi mismo y solucionar especialmente si hay un cliente de por medio, a ellos debemos cuidarlos y apreciarlos; Colaborar con otros desarrolladores es definitivamente una de las mejores maneras de crear soluciones.
 
-Luego de una jornada de bucles, arrays, tablas, mucho café y entusiasmo luego de localizar y corregir un bug, salir a trotar o hacer una caminata fuerte es de las mejores actividades, despejas la mente, el aire puro y conversas trivialidades con los vecinos.
+Luego de una jornada de bucles, arrays, tablas, mucho café y entusiasmo luego de localizar y corregir un bug, salir a trotar o hacer una caminata fuerte es de las mejores actividades, despejas la mente, respiras aire puro y conversas trivialidades con los vecinos (dedica 10 minutos a ello y si son ancianos, dedícales 20 !!! :).
 
 Si requieres más información sobre mis proyectos o piensas que te pudiera apoyar de alguna manera en tus iniciativas de software, con gusto conversamos.
 
