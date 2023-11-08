@@ -17,26 +17,29 @@
  
  *_EL NOMBRE DE DOMINIO y su costo se ofrecen por separado o adquirido por el cliente_*
    
- ## *Análisis, Diseño, Desarrollo y Despliegue Aplicaciones Web:*
-  - Básico: desde 1.800 US$
-  - Estándar: desde 3.600 US$
-  - Premium: desde 7.200 US$ *Esfuerzo centrado en su proyecto*
+ ## *Análisis, Diseño/Rediseño, Desarrollo y Despliegue Aplicaciones Web:*
+  - Basadas en Web o de escritorio
+  - Upgrades o rediseños de software anticuado
+  - App web completas, incluyendo hosting en linea.
+  - Planes ajustables según necesidad.
     
  ## *Diseño y desarrollo de Web Sites:*
-  - Básico: desde 1.120 US$
-  - Estándar: desde 2.240 US$
-  - Premium: desde 4.480 US$ *Esfuerzo centrado en su proyecto*
+  - Nuevos o rediseños
+  - Incluidos Hosting + email.
+  - Diseños startups, pequeñas/medianas empresas, industriales o personales
     
  ## *Proyecto basados en Excel 365 + VBA:*
-  - desde 30 US$ x hora.
+  - Diseño, creación, ajustes o mejoramiento.
   - Incluye soporte de consultas (WhatsaApp según disponibilidad)
        
  ## *Capacitación Excel:* curso: "Evolución de habilidades con EXCEL":
-  - Desde 350 US$ (Máximo 3 participantes modo Online - MS TEAMS)
+  - Curso de Excel con enfoque ampliado.
+  - Máximo 3 participantes modo Online - MS TEAMS - Negociable
   - Incluye soporte de consultas (WhatsaApp según disponibilidad x 1 mes después de finalizar el curso) 
   - Basico-Avanzado: Personal o In-Company CONTACTAR (avendanod@gmail.com)
  ## *Capacitación PowerPoint:* curso: "Una cura para el Envenenamiento por PowerPoint"
-  - Desde 450 US$ (Máximo 3 participantes modo Online - MS TEAMS)
+  - Curso de PowerPoint con enfoque ampliado.
+  - Máximo 3 participantes modo Online - MS TEAMS - Negociable
   - Incluye soporte de consultas (WhatsaApp según disponibilidad x 1 mes después de finalizar el curso) 
   - Basico-Avanzado: Personal o In-Company CONTACTAR (avendanod@gmail.com)
     
