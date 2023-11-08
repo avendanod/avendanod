@@ -28,7 +28,7 @@
   - Nuevos o rediseños
   - Incluidos Hosting + email.
   - Diseños startups, pequeñas/medianas empresas, industriales o personales
-  - Consulte nuestros flexibles planes: [PLANE WEB](https://tensify.net/services?code=SER0003&name=Websites&icon=fas+fa-drafting-compass)
+  - Consulte nuestros flexibles planes: [PLANE WEB]('https://tensify.net/services?code=SER0003&name=Websites&icon=fas+fa-drafting-compass' target='_blank')
   
  ## *Capacitación PowerPoint:* curso: "Una cura para el Envenenamiento por PowerPoint"
   - Curso de PowerPoint con enfoque ampliado.
