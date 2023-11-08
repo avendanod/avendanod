@@ -22,27 +22,27 @@
   - Upgrades o rediseños de software anticuado
   - App web completas, incluyendo hosting en linea.
   - Planes ajustables según necesidad.
-  - Consulte nuestros flexibles planes: [PLANES APPS](https://tensify.net/services?code=SER0001&name=Aplicaciones&icon=fas+fa-laptop){:target="_blank"}
+  - Consulte nuestros flexibles planes: [PLANES APPS](https://tensify.net/services?code=SER0001&name=Aplicaciones&icon=fas+fa-laptop){:target="_blank" rel="noopener"}
     
  ## *Diseño y desarrollo de Web Sites:*
   - Nuevos o rediseños
   - Incluidos Hosting + email.
   - Diseños startups, pequeñas/medianas empresas, industriales o personales
-  - Consulte nuestros flexibles planes: [PLANE WEB]('https://tensify.net/services?code=SER0003&name=Websites&icon=fas+fa-drafting-compass' target='_blank')
+  - Consulte nuestros flexibles planes: [PLANE WEB](https://tensify.net/services?code=SER0003&name=Websites&icon=fas+fa-drafting-compass){:target="_blank" rel="noopener"}
   
  ## *Capacitación PowerPoint:* curso: "Una cura para el Envenenamiento por PowerPoint"
   - Curso de PowerPoint con enfoque ampliado.
   - Máximo 3 participantes modo Online - MS TEAMS - Negociable
   - Incluye soporte de consultas (WhatsaApp según disponibilidad x 1 mes después de finalizar el curso) 
   - Basico-Avanzado: Personal o In-Company CONTACTAR (avendanod@gmail.com)
-  - Consulte nuestros programas: [CURSOS](https://tensify.net/services?code=SER0004&name=Capacitación&icon=fas+fa-chalkboard-teacher){:target="_blank"}
+  - Consulte nuestros programas: [CURSOS](https://tensify.net/services?code=SER0004&name=Capacitación&icon=fas+fa-chalkboard-teacher){:target="_blank" rel="noopener"}
    
  ## *Capacitación Excel:* curso: "Evolución de habilidades con EXCEL":
   - Curso de Excel con enfoque ampliado.
   - Máximo 3 participantes modo Online - MS TEAMS - Negociable
   - Incluye soporte de consultas (WhatsaApp según disponibilidad x 1 mes después de finalizar el curso) 
   - Basico-Avanzado: Personal o In-Company CONTACTAR (avendanod@gmail.com)
-  - Consulte nuestros programas: [CURSOS](https://tensify.net/services?code=SER0004&name=Capacitación&icon=fas+fa-chalkboard-teacher){:target="_blank"}
+  - Consulte nuestros programas: [CURSOS](https://tensify.net/services?code=SER0004&name=Capacitación&icon=fas+fa-chalkboard-teacher){:target="_blank" rel="noopener"}
     
 ## Tecnologías Actuales
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
