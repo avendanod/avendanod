@@ -31,6 +31,8 @@
   - Consulte nuestros flexibles planes: [PLANE WEB](https://tensify.net/services?code=SER0003&name=Websites&icon=fas+fa-drafting-compass)
   
  ## *Capacitación PowerPoint:* curso: "Una cura para el Envenenamiento por PowerPoint"
+  *Una cura para el Envenenamiento por PowerPoint*:
+  Como evitar _"El Envenamiento por PowerPoint"_. Orientado a comunicar utilizando técnicas para desarrollar contenido de impacto. Desde lo macros a lo micro, manejan conceptos claves y amplios del proceso de comunicación que influyen es tus presentaciones. 
   - Curso de PowerPoint con enfoque ampliado.
   - Máximo 3 participantes modo Online - MS TEAMS - Negociable
   - Incluye soporte de consultas (WhatsaApp según disponibilidad x 1 mes después de finalizar el curso) 
@@ -38,6 +40,8 @@
   - Consulte nuestros programas: [CURSOS](https://tensify.net/services?code=SER0004&name=Capacitación&icon=fas+fa-chalkboard-teacher)
    
  ## *Capacitación Excel:* curso: "Evolución de habilidades con EXCEL":
+ *Evolución de habilidades con EXCEL*:
+  Orientado a las soluciones, se enfatiza en el enfoque de vision amplia, previa y general de excel y su uso, más que en el uso propio de la herramienta. Módulo inicial del introducción donde se manejan conceptos claves.
   - Curso de Excel con enfoque ampliado.
   - Máximo 3 participantes modo Online - MS TEAMS - Negociable
   - Incluye soporte de consultas (WhatsaApp según disponibilidad x 1 mes después de finalizar el curso) 
@@ -60,32 +64,24 @@
 ![POWERPOINT](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![EXCEL](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
-# * CAPACITACIÓN y FORMACIÓN:
-##  Grupos o individuos mediante Video-conferencia o In-Company (Planes Flexibles)
-
-## Excel 
-*Evolución de habilidades con EXCEL*:
-Orientado a las soluciones, se enfatiza en el enfoque general de la solución más que en el uso propio de la herramienta. Módulo inicial del introducción donde se manejan conceptos claves.
-
-## PowerPoint
-*Una cura para el Envenenamiento por PowerPoint*:
-Como evitar _"El Envenamiento por PowerPoint"_. Orientado a comunicar utilizando técnicas para desarrollar contenido de impacto. Módulo inicial del introducción donde se manejan conceptos claves en el proceso de comunicar.
-
 # * BIO:
-Un gran saludo y bienvenido a mi perfil de GitHub, soy David Avendaño Pinzón -d@p-, Diseñador y desarrollador de Apps basadas en la web. Soy del tipo intensamente entusiasmado por hacer cosas que funcionen, simples y seguras, que resuelvan problemas, de alto impacto en las actividades de los usuarios y que al final del día los ayude realmente a mejorar sus procesos. 
+Un gran saludo y bienvenido a mi website, soy David Avendaño Pinzón -d@p-, Diseñador y desarrollador de Apps basadas en la web.
 
-Para ello, enfoqué mis esfuerzos en entregar mis productos y utilidades mediante: Python, PHP, JavaScript, HTML, CSS, MySQL y SQLite. Con el dominio de estas herramientas he llevado adelante múltiples proyectos web, tanto personales y de pruebas de concepto como de tipo profesional para clientes importantes en la industria petrolera, especialmente para clientes de México.
+Somos del tipo intensamente entusiasmados por hacer cosas que funcionen, simples y seguras, que resuelvan problemas, de alto impacto en las actividades de los usuarios y que al final del día, ayude a los usuarios a mejorar sus procesos.
 
-Lamento no poner a disposición el código en los repositorios públicos ya tales proyectos son privados y no vamos a exponer nada bajo compromiso de confidencialidad ya que una parte importante del prestigio es la confianza.
-Pero si puedes visitar mi página web (https://tensify.net), allí expongo, en forma de imágenes, algunos aspectos resaltantes de los principales proyectos.
+Para ello, enfocamos nuestro esfuerzos en entregar productos y utilidades de alta calidad usando herramientas tales como: Python, PHP, JavaScript, HTML, CSS, MySQL y SQLite; Con éstas hemos llevado adelante múltiples proyectos web, personales, de pruebas de concepto y principalmente de tipo profesional para clientes importantes en la industria petrolera, especialmente en México.
 
-Continúo actualizando mi catálogo de herramientas y estoy actualmente haciendo pruebas y "jugando" con React y NodeJS para ampliar el abanico de soluciones y estar al día de las últimas tendencias y novedades en el entorno del desarrollo web, así como otras importantes como el uso de contenedores Docker y plataforma de desarrollo móvil como Kotlin.
+Los 13 años de experiencia en la Industria Petrolera Venezolana (CORPOVEN: 7 años, PDVSA: 5 años, AMERIVEN (PDVSA-Chevron Texaco): 1.5 años) resultaron una escuela en su máxima expresión: disciplina, rigurosidad técnica, visión cliente/proveedor, colaboración, enfoque de equipo y en el aspecto humano: mucho, muchos aprendizajes que hoy en día valoramos, respetamos y llevamos con orgullo.
 
-Confieso que, aunque me gusta el trabajo colaborativo, a veces me he visto obligado a ingeniármelas con los recursos que puedo manejar por mi mismo y solucionar especialmente si hay un cliente de por medio, a ellos debemos cuidarlos y apreciarlos; Colaborar con otros desarrolladores es definitivamente una de las mejores maneras de crear soluciones.
+La confidencialidad es una parte importante del prestigio que queremos alcanzar y la confianza es uno de sus pilares fundamentales y estamos orgullosos de este aspecto. Puedes visitar la sección de Proyectos, allí exponemos, en forma de imágenes, algunos aspectos resaltantes de los principales proyectos privados y un enlace a las website activos que estén disponibles.
 
-Luego de una jornada de bucles, arrays, tablas, mucho café y entusiasmo luego de localizar y corregir un bug, salir a trotar o hacer una caminata fuerte es de las mejores actividades, despejas la mente, respiras aire puro y conversas trivialidades con los vecinos (dedica 10 minutos a ello y si son ancianos, dedícales 20 !!! :).
+Las actualizaciones en el uso de nuevas herramientas son primordiales y estamos actualmente haciendo pruebas y 'jugando': React, NodeJS y otros modelos de bases de datos para ampliar el abanico de soluciones y estar al día de las últimas tendencias y novedades en el entorno del desarrollo web, así como otras áreas importantes como el uso de contenedores Docker y plataforma de desarrollo móvil como Kotlin.
+
+Confieso que, aunque me gusta el trabajo colaborativo, a veces me he visto obligado a ingeniármelas con los recursos que puedo manejar por mí mismo y solucionar especialmente si hay un cliente de por medio, a ellos debemos cuidarlos y apreciarlos; Colaborar con otros desarrolladores es definitivamente una de las mejores maneras de crear soluciones.
+
+Luego de una jornada de bucles, arrays, tablas, mucho café y entusiasmo luego de localizar y corregir un bug, salir a trotar o hacer una caminata fuerte es de las mejores actividades, despejas la mente, respiras aire puro y conversas trivialidades con los vecinos (dedica 10 minutos a ello y si son ancianos, dedícales 20:).
 
 Si requieres más información sobre mis proyectos o piensas que te pudiera apoyar de alguna manera en tus iniciativas de software, con gusto conversamos.
+¡Gracias por visitar mi website!
 
-¡Gracias por visitar mi perfil!
 d@p
