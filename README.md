@@ -27,10 +27,12 @@
   - Nuevos o rediseños
   - Incluidos Hosting + email.
   - Diseños startups, pequeñas/medianas empresas, industriales o personales
+  - Consulte nuestros flexibles planes: [tensify.net]([https://tensify.net/](https://tensify.net/services?code=SER0001&name=Aplicaciones&icon=fas+fa-laptop))
     
  ## *Proyecto basados en Excel 365 + VBA:*
   - Diseño, creación, ajustes o mejoramiento.
   - Incluye soporte de consultas (WhatsaApp según disponibilidad)
+  - Consulte nuestros flexibles planes: [tensify.net]([https://tensify.net/](https://tensify.net/services?code=SER0004&name=Capacitación&icon=fas+fa-chalkboard-teacher))
        
  ## *Capacitación Excel:* curso: "Evolución de habilidades con EXCEL":
   - Curso de Excel con enfoque ampliado.
@@ -42,6 +44,7 @@
   - Máximo 3 participantes modo Online - MS TEAMS - Negociable
   - Incluye soporte de consultas (WhatsaApp según disponibilidad x 1 mes después de finalizar el curso) 
   - Basico-Avanzado: Personal o In-Company CONTACTAR (avendanod@gmail.com)
+  - Consulte nuestros programas: [tensify.net]([https://tensify.net/](https://tensify.net/services?code=SER0004&name=Capacitación&icon=fas+fa-chalkboard-teacher))
     
 ## Tecnologías Actuales
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
