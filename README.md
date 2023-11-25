@@ -1,4 +1,4 @@
-![Alt Hola!](https://tensify.net/logotensifynet.jpg) 
+![Alt Hola!](https://tensify.net/tensify.jpg) 
 
 # DESARROLLO FULLSTACK
 *SERVICIOS GLOBALES, ATENCIÓN PERSONAL*
