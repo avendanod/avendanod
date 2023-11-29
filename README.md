@@ -14,6 +14,15 @@
  - Soporte y Capacitación: EXCEL & POWERPOINT.
  - Python, PHP, Javascript, HTML/CSS.
 
+  
+#  * POSTAFOLIO:
+Proyecto desarrollados a satisfacción de los clientes:
+ - [Areas Nene](https://arepasnene.com)
+ - [Magnum Ingeniería](https://magnumingenieria.com/)
+ - [Areas Nene](https://arepasnene.com)
+ - [Areas Nene](https://arepasnene.com)
+ - [Areas Nene](https://arepasnene.com)
+
 #  * PLANES DE SERVICIOS y COSTOS ESTIMADOS:
  *_LOS PLANES PARA WEB APPS y WEB PAGES, INCLUYEN: HOSTING y 1 CUENTA DE EMAIL._*
  
