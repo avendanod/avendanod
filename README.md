@@ -22,7 +22,7 @@ Proyecto desarrollados a satisfacción de los clientes:
  - [SmartHSE](http://smarthse.net/) Website para empresa consultora de área de QHSE - Monterrey|México
  - [CPC Oil & Gas](http://cpc-oil-gas.com/) Website para empresa EPC industrila Oil & Gas -Veracruz|México  
  - [FLEXT Extintores portátiles](http://flext.codatos.net/) Aplicación web para inspección de extintores portátiles
- - ![CODATOS](https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg)(http://flext.codatos.net/) Plataforma web para caoacitación en línea
+ ![CODATOS](http://flext.codatos.net/) Plataforma web para caoacitación en línea
 
 #  * PLANES DE SERVICIOS y COSTOS ESTIMADOS:
  *_LOS PLANES PARA WEB APPS y WEB PAGES, INCLUYEN: HOSTING y 1 CUENTA DE EMAIL._*
