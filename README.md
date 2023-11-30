@@ -35,7 +35,7 @@
  - Python, PHP, Javascript, HTML/CSS.
 
   
-#  * POSTAFOLIO:
+#  * PORTAFOLIO:
 Proyecto desarrollados a satisfacción de los clientes 2018-2023:
  - [Arepas Nene](https://arepasnene.com/) Website para restaurante de comida Venezolana - Florida | USA
  - [Mágnum Ingeniería](https://magnumingenieria.com/) Website para empresa de Mantenimiento Industrial Oil & Gas - Tamaulipas | México
