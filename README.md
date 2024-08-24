@@ -20,21 +20,21 @@
 ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
 ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
 
-# DESARROLLO FULLSTACK
-*SERVICIOS GLOBALES, ATENCIÓN PERSONAL*
-- Soluciones simples, funcionales y dirigidas a sus necesidad.
-- Visítenos en: [tensify.net](https://tensify.net/)
+# FULLSTACK DEVELOPER | DESARROLLO FULLSTACK
+*WORLDWIDE SERVICES, PERSONAL ATTENTION | SERVICIOS GLOBALES, ATENCIÓN PERSONAL* /  
+- Simple, functional solutions for your needs. | Soluciones simples, funcionales y dirigidas a sus necesidad.
+- Visítenos en | Visit out website: [tensify.net](https://tensify.net/)
  
-#  * SERVICIOS:
- - Desarrollo de Aplicaciones Web o de Escritorio: Para Startups, Empresas, Industrias y necesidades personales.
- - Migraciones/Upgrades.
- - Diseño y Despliegue de Web Sites.
- - Soporte y Capacitación: EXCEL & POWERPOINT.
+#  * SERVICES | SERVICIOS:
+ - Web or Desktop Application Development: For Startups, Businesses, Industries and Personal Needs. | Desarrollo de Aplicaciones Web o de Escritorio: Para Startups, Empresas, Industrias y necesidades personales.
+ - Migrations/Upgrades | Migraciones/Actualizaciones.
+ - Web Site Design and Deployment | Diseño y Despliegue de Web Sites.
+ - Support and Training: EXCEL and POWERPOINT. | Soporte y Capacitación: EXCEL y POWERPOINT.
  - Python, PHP, Javascript, HTML/CSS.
 
   
-#  * PORTAFOLIO:
-Proyecto desarrollados a satisfacción de los clientes 2018-2023:
+#  * PORTFOLIO | PORTAFOLIO:
+Projects developed to customer satisfaction 2018-2024: | Proyecto desarrollados a satisfacción de los clientes 2018-2024:
  - [Arepas Nene](https://arepasnene.com/) Website para restaurante de comida Venezolana - Florida | USA
  - [Mágnum Ingeniería](https://magnumingenieria.com/) Website para empresa de Mantenimiento Industrial Oil & Gas - Tamaulipas | México
  - [Smart HSE](http://smarthse.net/) Website para empresa consultora de área de QHSE - Monterrey | México
@@ -42,23 +42,20 @@ Proyecto desarrollados a satisfacción de los clientes 2018-2023:
  - [FLEXT Extintores portátiles](http://flext.codatos.net/) Aplicación web para inspección de extintores portátiles
  - [CODATOS](http://flext.codatos.net/) Plataforma web para capacitación en línea
 
-#  * PLANES DE SERVICIOS y COSTOS ESTIMADOS:
- *_LOS PLANES PARA WEB APPS y WEB PAGES, INCLUYEN: HOSTING y 1 CUENTA DE EMAIL._*
- 
- *_EL NOMBRE DE DOMINIO y su costo se ofrecen por separado o adquirido por el cliente_*
-   
- ## *Análisis, Diseño/Rediseño, Desarrollo y Despliegue Aplicaciones Web:*
-  - Basadas en Web o de escritorio
-  - Upgrades o rediseños de software anticuado
-  - App web completas, incluyendo hosting en linea.
-  - Planes ajustables según necesidad.
-  - Consulte nuestros flexibles planes: [PLANES APPS](https://tensify.net/services?code=SER0001&name=Aplicaciones&icon=fas+fa-laptop)
+#  * SERVICES' PLANS | PLANES DE SERVICIOS:
+
+ ## *Analysis, Design/Redesign, Development and Deployment of Web Applications: | Análisis, Diseño/Rediseño, Desarrollo y Despliegue Aplicaciones Web:*
+  - Web-based or desktop-based | Basadas en Web o de escritorio
+  - Upgrades or redesigns of outdated software| Actualizaciones o rediseños de software anticuado
+  - Complete web apps, including hosting and email | App web completas, incluyendo hosting e email.
+  - Flexible plans | Planes ajustables según necesidad.
+  - Check out our plans | Consulte nuestros planes: [PLANES APPS](https://tensify.net/services?code=SER0001&name=Aplicaciones&icon=fas+fa-laptop)
     
  ## *Diseño y desarrollo de Web Sites:*
-  - Nuevos o rediseños
-  - Incluidos Hosting + email.
-  - Diseños startups, pequeñas/medianas empresas, industriales o personales
-  - Consulte nuestros flexibles planes: [PLANES WEB](https://tensify.net/services?code=SER0003&name=Websites&icon=fas+fa-drafting-compass)
+  - New or redesigned | Nuevos o rediseñados
+  - Hosting + email included. | Incluidos Hosting + email.
+  - Designs for startups, small/medium-sized businesses, industrial or personal | Diseños startups, pequeñas/medianas empresas, industriales o personales
+  - Check out our plans | Consulte nuestros planes: [PLANES WEB](https://tensify.net/services?code=SER0003&name=Websites&icon=fas+fa-drafting-compass)
   
  ## *Capacitación PowerPoint:* curso: "Una cura para el Envenenamiento por PowerPoint"
   *Una cura para el Envenenamiento por PowerPoint*:
@@ -84,23 +81,36 @@ Proyecto desarrollados a satisfacción de los clientes 2018-2023:
 ![EXCEL](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 # * BIO:
-Un gran saludo y bienvenido a mi website, soy David Avendaño Pinzón -d@p-, Diseñador y desarrollador de Apps basadas en la web.
+A big hello and welcome to my website, I'm David -d@p-, a designer and developer of web-based Apps.
 
-Somos del tipo intensamente entusiasmados por hacer cosas que funcionen, simples y seguras, que resuelvan problemas, de alto impacto en las actividades de los usuarios y que al final del día, ayude a los usuarios a mejorar sus procesos.
+I am intensely enthusiastic about making things that work with focused in Simplicity and safety, that solve problems, have a high impact on user activities, and that at the end of the day, help users improve their processes. To do this, we direct our efforts on delivering high-quality products and utilities using tools such as Python, PHP, JavaScript, HTML, CSS, MySQL, and SQLite; with these, we have carried out multiple web projects, personal, proof of concept and mainly professional for important clients in the oil industry, especially in Mexico.
 
-Para ello, enfocamos nuestro esfuerzos en entregar productos y utilidades de alta calidad usando herramientas tales como: Python, PHP, JavaScript, HTML, CSS, MySQL y SQLite; Con éstas hemos llevado adelante múltiples proyectos web, personales, de pruebas de concepto y principalmente de tipo profesional para clientes importantes en la industria petrolera, especialmente en México.
+The 13 years of experience in the Venezuelan Oil Industry have been a school in its highest expression: discipline, technical rigor, client/supplier vision , collaboration, team approach and in the human aspect: many, many lessons that today we value, respect and carry with pride. Confidentiality is an important part of the prestige we want to achieve. Trust is one of its fundamental pillars and we are proud of it.
 
-Los 13 años de experiencia en la Industria Petrolera Venezolana (CORPOVEN: 7 años, PDVSA: 5 años, AMERIVEN (PDVSA-Chevron Texaco): 1.5 años) resultaron una escuela en su máxima expresión: disciplina, rigurosidad técnica, visión cliente/proveedor, colaboración, enfoque de equipo y en el aspecto humano: mucho, muchos aprendizajes que hoy en día valoramos, respetamos y llevamos con orgullo.
+You can visit the Projects section, where we present, in the form of images, some outstanding aspects of the main private projects and a link to the active websites that are available in out web site: [tensify.net](https://tensify.net/)
 
-La confidencialidad es una parte importante del prestigio que queremos alcanzar y la confianza es uno de sus pilares fundamentales y estamos orgullosos de este aspecto. Puedes visitar la sección de Proyectos, allí exponemos, en forma de imágenes, algunos aspectos resaltantes de los principales proyectos privados y un enlace a las website activos que estén disponibles.
+Updates in the use of new tools are essential. We are currently testing and 'playing': React, NodeJS, Erlang, and other database models to expand the range of solutions and stay up to date with the latest trends and developments in the web development environment, as well as other important areas such as the use of Docker containers and mobile development platforms such as Kotlin.
 
-Las actualizaciones en el uso de nuevas herramientas son primordiales y estamos actualmente haciendo pruebas y 'jugando': React, NodeJS y otros modelos de bases de datos para ampliar el abanico de soluciones y estar al día de las últimas tendencias y novedades en el entorno del desarrollo web, así como otras áreas importantes como el uso de contenedores Docker y plataforma de desarrollo móvil como Kotlin.
+I confess that, although I like collaborative work, sometimes I have been forced to figure out what resources I can manage myself and solve especially if there is a client involved, we must take care of them and appreciate them; collaborating with other developers is one of the best ways to create solutions.
 
-Confieso que, aunque me gusta el trabajo colaborativo, a veces me he visto obligado a ingeniármelas con los recursos que puedo manejar por mí mismo y solucionar especialmente si hay un cliente de por medio, a ellos debemos cuidarlos y apreciarlos; Colaborar con otros desarrolladores es definitivamente una de las mejores maneras de crear soluciones.
+Thank you for visiting my website!
+d@p
 
-Luego de una jornada de bucles, arrays, tablas, mucho café y entusiasmo luego de localizar y corregir un bug, salir a trotar o hacer una caminata fuerte es de las mejores actividades, despejas la mente, respiras aire puro y conversas trivialidades con los vecinos (dedica 10 minutos a ello y si son ancianos, dedícales 20:).
+---------------------------------------
 
-Si requieres más información sobre mis proyectos o piensas que te pudiera apoyar de alguna manera en tus iniciativas de software, con gusto conversamos.
-¡Gracias por visitar mi website!
+Un gran hola y bienvenido a mi sitio web, soy David -d@p-, diseñador y desarrollador de Apps basadas en web.
 
+Me entusiasma intensamente hacer cosas que funcionen con enfoque en Simplicidad y seguridad, que resuelvan problemas, tengan un alto impacto en las actividades de los usuarios, y que al final del día, ayuden a los usuarios a mejorar sus procesos. Para ello, dirigimos nuestros esfuerzos en entregar productos y utilidades de alta calidad utilizando herramientas como Python, PHP, JavaScript, HTML, CSS, MySQL y SQLite; con estas, hemos realizado múltiples proyectos web, personales, de prueba de concepto y principalmente profesionales para importantes clientes de la industria petrolera, especialmente en México.
+
+Los 13 años de experiencia en la Industria Petrolera Venezolana han sido una escuela en su máxima expresión: disciplina, rigor técnico, visión cliente/proveedor, colaboración, enfoque de equipo y en el aspecto humano: muchas, muchas lecciones que hoy valoramos, respetamos y llevamos con orgullo. La confidencialidad es parte importante del prestigio que queremos alcanzar. La confianza es uno de sus pilares fundamentales y estamos orgullosos de ello.
+
+Pueden visitar la sección de Proyectos, donde les presentamos, en forma de imágenes, algunos aspectos destacados de los principales proyectos privados y un enlace a los sitios web activos que se encuentran disponibles en nuestra dirección web: [tensify.net](https://tensify.net/)
+
+Las actualizaciones en el uso de nuevas herramientas son fundamentales. Actualmente estamos probando y 'jugando': React, NodeJS, Erlang, y otros modelos de bases de datos para ampliar el abanico de soluciones y estar al día de las últimas tendencias y novedades en el entorno de desarrollo web, así como otras áreas importantes como el uso de contenedores Docker y plataformas de desarrollo móvil como Kotlin.
+
+Confieso que, aunque me gusta el trabajo colaborativo, en ocasiones me he visto obligado a ingeniármelas para averiguar qué recursos puedo gestionar yo mismo y resolver sobre todo si hay un cliente de por medio, hay que cuidarlos y valorarlos; colaborar con otros desarrolladores es una de las mejores formas de crear soluciones. Después de un día de bucles, arrays, tablas, mucho café y entusiasmo tras localizar y corregir un bug, salir a correr o a caminar a paso ligero es una de las mejores actividades, te despejas, respiras aire fresco y hablas de cosas triviales con los vecinos (dedícale 10 minutos y si son mayores, dedica 20 a ellos :).
+
+Si necesitas más información sobre mis proyectos o crees que puedo ayudarte de alguna manera en tus iniciativas de software, estaremos encantados de hablar.
+
+¡Gracias por visitar mi sitio web!
 d@p
