@@ -29,7 +29,7 @@
 #  * PORTFOLIO | PORTAFOLIO:
 
 ## 🛠️ Industrial & Business Solutions | Soluciones Industriales y de Negocios
-* **UniTrack & FloTrack** | SaaS para gestión de activos críticos, telemetría de compresores y control de flotas. (Python/Flask/MySQL).
+* **UniTrack** | SaaS para gestión de activos críticos, telemetría de compresores (En Proghreso).
 * **Mágnum Ingeniería** | Sistema de gestión para mantenimiento industrial Oil & Gas - Tamaulipas | México.
 * **CPC Oil & Gas** | Plataforma operativa para empresa EPC industrial Oil & Gas - Veracruz | México.
 * **FLEXT Extintores** | Aplicación web técnica para inspección y cumplimiento normativo de seguridad industrial.
