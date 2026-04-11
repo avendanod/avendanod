@@ -10,15 +10,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
-![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
-![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
 
 # FULLSTACK DEVELOPER | DESARROLLO FULLSTACK
 *WORLDWIDE SERVICES, PERSONAL ATTENTION | SERVICIOS GLOBALES, ATENCIÓN PERSONAL* /  
@@ -26,7 +19,7 @@
 - Visítenos en | Visit out website: [tensify.net](https://tensify.net/)
  
 #  * SERVICES | SERVICIOS:
- - Web or Desktop Application Development: For Startups, Businesses, Industries and Personal Needs. | Desarrollo de Aplicaciones Web o de Escritorio: Para Startups, Empresas, Industrias y necesidades personales.
+ - Developing specialized SaaS type: For Startups, Businesses, Industries and Personal Needs. | Desarrollo especializado tipo SaaS: Para Startups, Empresas, Industrias y necesidades personales.
  - Migrations/Upgrades | Migraciones/Actualizaciones.
  - Web Site Design and Deployment | Diseño y Despliegue de Web Sites.
  - Support and Training: EXCEL and POWERPOINT. | Soporte y Capacitación: EXCEL y POWERPOINT.
