@@ -12,7 +12,9 @@
 ![VSCode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-# 👨‍💻 FULLSTACK DEVELOPER | DESARROLLO FULLSTACK
+
+# 👨‍💻 DAVID AVENDAÑO | FULLSTACK DEVELOPER
+### *Servicios globales, atención personal.*
 
 > **I bridge the gap between complex legal/industrial regulations and efficient software architecture.**
 > *Unifico la brecha entre regulaciones legales/industriales complejas y arquitectura de software.*
