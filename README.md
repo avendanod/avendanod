@@ -27,14 +27,18 @@
  - Python, PHP, Javascript, HTML/CSS.
   
 #  * PORTFOLIO | PORTAFOLIO:
-Projects developed to customer satisfaction 2018-2024: | Proyecto desarrollados a satisfacción de los clientes 2018-2024:
- - [Arepas Nene](https://arepasnene.com/) Website para restaurante de comida Venezolana - Florida | USA
- - [Mágnum Ingeniería](https://magnumingenieria.com/) Website para empresa de Mantenimiento Industrial Oil & Gas - Tamaulipas | México
- - [Smart HSE](http://smarthse.net/) Website para empresa consultora de área de QHSE - Monterrey | México
- - [CPC Oil & Gas](http://cpc-oil-gas.com/) Website para empresa EPC industrila Oil & Gas - Veracruz | México  
- - [FLEXT Extintores portátiles](http://flext.codatos.net/) Aplicación web para inspección de extintores portátiles
- - [CODATOS](http://flext.codatos.net/) Plataforma web para capacitación en línea
 
+## 🛠️ Industrial & Business Solutions | Soluciones Industriales y de Negocios
+* **UniTrack & FloTrack** | SaaS para gestión de activos críticos, telemetría de compresores y control de flotas. (Python/Flask/MySQL).
+* **Mágnum Ingeniería** | Sistema de gestión para mantenimiento industrial Oil & Gas - Tamaulipas | México.
+* **CPC Oil & Gas** | Plataforma operativa para empresa EPC industrial Oil & Gas - Veracruz | México.
+* **FLEXT Extintores** | Aplicación web técnica para inspección y cumplimiento normativo de seguridad industrial.
+* **Smart HSE** | Consultoría digital en áreas de QHSE (Seguridad, Higiene y Ambiente) - Monterrey | México.
+* 
+## 🌐 Commercial & Web Presence | Presencia Web y Comercial
+* **Arepas Nene** | Solución web para sector hospitality y restauración - Florida | USA.
+* **CODATOS** | Plataforma e-learning para capacitación técnica en línea.
+* 
 #  * SERVICES' PLANS | PLANES DE SERVICIOS:
 
  ## *Analysis, Design/Redesign, Development and Deployment of Web Applications: | Análisis, Diseño/Rediseño, Desarrollo y Despliegue Aplicaciones Web:*
