@@ -14,7 +14,7 @@
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 
 # 👨‍💻 DAVID AVENDAÑO | FULLSTACK DEVELOPER
-### *Servicios globales, atención personal.*
+### *Global services, personal attention. | Servicios globales, atención personal.*
 
 > **I bridge the gap between complex legal/industrial regulations and efficient software architecture.**
 > *Unifico la brecha entre regulaciones legales/industriales complejas y arquitectura de software.*
