@@ -19,12 +19,12 @@
 - Visítenos en | Visit out website: [tensify.net](https://tensify.net/)
  
 #  * SERVICES | SERVICIOS:
- - Developing specialized SaaS type: For Startups, Businesses, Industries and Personal Needs. | Desarrollo especializado tipo SaaS: Para Startups, Empresas, Industrias y necesidades personales.
- - Migrations/Upgrades | Migraciones/Actualizaciones.
+ - I bridge the gap between complex legal/industrial regulations and software architecture. | Unifico la brecha entre regulaciones legales/industriales complejas y arquitectura de software
+ - Developing specialized SaaS type (Startups, Businesses, Industries and Personals) | Desarrollo especializado tipo SaaS (Startups, Empresas, Industrias y necesidades personales)
+ - Upgrades | Actualizaciones.
  - Web Site Design and Deployment | Diseño y Despliegue de Web Sites.
  - Support and Training: EXCEL and POWERPOINT. | Soporte y Capacitación: EXCEL y POWERPOINT.
  - Python, PHP, Javascript, HTML/CSS.
-
   
 #  * PORTFOLIO | PORTAFOLIO:
 Projects developed to customer satisfaction 2018-2024: | Proyecto desarrollados a satisfacción de los clientes 2018-2024:
