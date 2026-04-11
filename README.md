@@ -22,8 +22,8 @@
 ### 🚀 SPECIALIZED SERVICES | SERVICIOS ESPECIALIZADOS
 
 * **SaaS Development:** Startups, Businesses, and Industrial solutions.
-* **Asset Management & Monitoring:** Data acquisition from telemetry and SCADA integration.
-* **Custom Dashboards:** Specialized data visualization for decision-making.
+* **Asset Management & Monitoring:** Remote data acquisition and real-time telemetry integration.
+* **Custom Dashboards:** Specialized data visualization for decision-making (KPIs, Tables, Reports).
 * **Legacy Systems Modernization:** Turning outdated software into modern web applications.
 * **Stack:** Python (Flask), Javascript, PHP, MySQL/MariaDB, HTML5/CSS3.
 
@@ -71,38 +71,21 @@ Visit my website: [**tensify.net**](https://tensify.net/)
 ![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
 📧 **Contact:** [avendanod@gmail.com](mailto:avendanod@gmail.com)
+# 👨‍ registrados BIO | ACERCA DE MÍ
 
-# * BIO:
-A big hello and welcome to my website, I'm David -d@p-, a designer and developer of web-based Apps.
+I am a designer and developer focused on **Simplicity, Safety, and High-Impact solutions**. With 13 years of experience in the Venezuelan Oil Industry, I've built a foundation of technical rigor and discipline that I now translate into clean, functional code.
 
-I am intensely enthusiastic about making things that work with focused in Simplicity and safety, that solve problems, have a high impact on user activities, and that at the end of the day, help users improve their processes. To do this, we direct our efforts on delivering high-quality products and utilities using tools such as Python, PHP, JavaScript, HTML, CSS, MySQL, and SQLite; with these, we have carried out multiple web projects, personal, proof of concept and mainly professional for important clients in the oil industry, especially in Mexico.
+> **"I don't just build apps; I solve process bottlenecks through software."**
 
-The 13 years of experience in the Venezuelan Oil Industry have been a school in its highest expression: discipline, technical rigor, client/supplier vision , collaboration, team approach and in the human aspect: many, many lessons that today we value, respect and carry with pride. Confidentiality is an important part of the prestige we want to achieve. Trust is one of its fundamental pillars and we are proud of it.
+#### 🛠️ What I do | Qué hago:
+* **Focus:** High-quality SaaS for industrial and business environments.
+* **Schooling:** 13 years at the highest level of the oil industry (PDVSA school), valuing confidentiality, technical rigor, and client trust.
+* **Evolution:** Currently expanding into React, NodeJS, Docker, and Kotlin to ensure my solutions stay ahead of the curve.
 
-You can visit the Projects section, where we present, in the form of images, some outstanding aspects of the main private projects and a link to the active websites that are available in out web site: [tensify.net](https://tensify.net/)
+#### 🧘 Beyond the code | Fuera del código:
+After a day of loops, arrays, and debugging, I believe in clearing the mind. A brisk walk, a good coffee, and a 20-minute chat with the neighbors are essential to stay grounded and creative.
 
-Updates in the use of new tools are essential. We are currently testing and 'playing': React, NodeJS, Erlang, and other database models to expand the range of solutions and stay up to date with the latest trends and developments in the web development environment, as well as other important areas such as the use of Docker containers and mobile development platforms such as Kotlin.
-
-I confess that, although I like collaborative work, sometimes I have been forced to figure out what resources I can manage myself and solve especially if there is a client involved, we must take care of them and appreciate them; collaborating with other developers is one of the best ways to create solutions.
-
-Thank you for visiting my website!
-d@p
-
----------------------------------------
-
-Un gran hola y bienvenido a mi sitio web, soy David -d@p-, diseñador y desarrollador de Apps basadas en web.
-
-Me entusiasma intensamente hacer cosas que funcionen con enfoque en Simplicidad y seguridad, que resuelvan problemas, tengan un alto impacto en las actividades de los usuarios, y que al final del día, ayuden a los usuarios a mejorar sus procesos. Para ello, dirigimos nuestros esfuerzos en entregar productos y utilidades de alta calidad utilizando herramientas como Python, PHP, JavaScript, HTML, CSS, MySQL y SQLite; con estas, hemos realizado múltiples proyectos web, personales, de prueba de concepto y principalmente profesionales para importantes clientes de la industria petrolera, especialmente en México.
-
-Los 13 años de experiencia en la Industria Petrolera Venezolana han sido una escuela en su máxima expresión: disciplina, rigor técnico, visión cliente/proveedor, colaboración, enfoque de equipo y en el aspecto humano: muchas, muchas lecciones que hoy valoramos, respetamos y llevamos con orgullo. La confidencialidad es parte importante del prestigio que queremos alcanzar. La confianza es uno de sus pilares fundamentales y estamos orgullosos de ello.
-
-Pueden visitar la sección de Proyectos, donde les presentamos, en forma de imágenes, algunos aspectos destacados de los principales proyectos privados y un enlace a los sitios web activos que se encuentran disponibles en nuestra dirección web: [tensify.net](https://tensify.net/)
-
-Las actualizaciones en el uso de nuevas herramientas son fundamentales. Actualmente estamos probando y 'jugando': React, NodeJS, Erlang, y otros modelos de bases de datos para ampliar el abanico de soluciones y estar al día de las últimas tendencias y novedades en el entorno de desarrollo web, así como otras áreas importantes como el uso de contenedores Docker y plataformas de desarrollo móvil como Kotlin.
-
-Confieso que, aunque me gusta el trabajo colaborativo, en ocasiones me he visto obligado a ingeniármelas para averiguar qué recursos puedo gestionar yo mismo y resolver sobre todo si hay un cliente de por medio, hay que cuidarlos y valorarlos; colaborar con otros desarrolladores es una de las mejores formas de crear soluciones. Después de un día de bucles, arrays, tablas, mucho café y entusiasmo tras localizar y corregir un bug, salir a correr o a caminar a paso ligero es una de las mejores actividades, te despejas, respiras aire fresco y hablas de cosas triviales con los vecinos (dedícale 10 minutos y si son mayores, dedica 20 a ellos :).
-
-Si necesitas más información sobre mis proyectos o crees que puedo ayudarte de alguna manera en tus iniciativas de software, estaremos encantados de hablar.
-
-¡Gracias por visitar mi sitio web!
-d@p
+*If you need technical expertise with a professional's perspective, let's talk.*
+---
+*Si necesitas experiencia técnica con visión profesional, hablemos.*
+[tensify.net](https://tensify.net/) | [avendanod@gmail.com](mailto:avendanod@gmail.com)
