@@ -71,7 +71,7 @@ Visit my website: [**tensify.net**](https://tensify.net/)
 ![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
 📧 **Contact:** [avendanod@gmail.com](mailto:avendanod@gmail.com)
-# 👨‍ registrados BIO | ACERCA DE MÍ
+# 👨‍ BIO | ACERCA DE MÍ
 
 I am a designer and developer focused on **Simplicity, Safety, and High-Impact solutions**. With 13 years of experience in the Venezuelan Oil Industry, I've built a foundation of technical rigor and discipline that I now translate into clean, functional code.
 
