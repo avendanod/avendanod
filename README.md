@@ -12,70 +12,65 @@
 ![VSCode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+# 👨‍💻 FULLSTACK DEVELOPER | DESARROLLO FULLSTACK
 
-# FULLSTACK DEVELOPER | DESARROLLO FULLSTACK
-*WORLDWIDE SERVICES, PERSONAL ATTENTION | SERVICIOS GLOBALES, ATENCIÓN PERSONAL* /  
-- Simple, functional solutions for your needs. | Soluciones simples, funcionales y dirigidas a sus necesidad.
-- Visítenos en | Visit out website: [tensify.net](https://tensify.net/)
- 
-#  * SERVICES | SERVICIOS:
- - I bridge the gap between complex legal/industrial regulations and software architecture. | Unifico la brecha entre regulaciones legales/industriales complejas y arquitectura de software
- - Developing specialized SaaS type (Startups, Businesses, Industries and Personals) | Desarrollo especializado tipo SaaS (Startups, Empresas, Industrias y necesidades personales)
- - Upgrades | Actualizaciones.
- - Web Site Design and Deployment | Diseño y Despliegue de Web Sites.
- - Support and Training: EXCEL and POWERPOINT. | Soporte y Capacitación: EXCEL y POWERPOINT.
- - Python, PHP, Javascript, HTML/CSS.
-  
-#  * PORTFOLIO | PORTAFOLIO:
+> **I bridge the gap between complex legal/industrial regulations and efficient software architecture.**
+> *Unifico la brecha entre regulaciones legales/industriales complejas y arquitectura de software.*
 
-## 🛠️ Industrial & Business Solutions | Soluciones Industriales y de Negocios
-* **UniTrack** | SaaS para gestión de activos críticos, telemetría de compresores (En Proghreso).
-* **Mágnum Ingeniería** | Sistema de gestión para mantenimiento industrial Oil & Gas - Tamaulipas | México.
-* **CPC Oil & Gas** | Plataforma operativa para empresa EPC industrial Oil & Gas - Veracruz | México.
-* **FLEXT Extintores** | Aplicación web técnica para inspección y cumplimiento normativo de seguridad industrial.
-* **Smart HSE** | Consultoría digital en áreas de QHSE (Seguridad, Higiene y Ambiente) - Monterrey | México.
-* 
-## 🌐 Commercial & Web Presence | Presencia Web y Comercial
-* **Arepas Nene** | Solución web para sector hospitality y restauración - Florida | USA.
+---
+
+### 🚀 SPECIALIZED SERVICES | SERVICIOS ESPECIALIZADOS
+
+* **SaaS Development:** Startups, Businesses, and Industrial solutions.
+* **Asset Management & Monitoring:** Data acquisition from telemetry and SCADA integration.
+* **Custom Dashboards:** Specialized data visualization for decision-making.
+* **Legacy Systems Modernization:** Turning outdated software into modern web applications.
+* **Stack:** Python (Flask), Javascript, PHP, MySQL/MariaDB, HTML5/CSS3.
+
+Visit my website: [**tensify.net**](https://tensify.net/)
+
+---
+
+### 🛠️ PORTFOLIO | PORTAFOLIO
+
+#### Industrial & Business Solutions | Soluciones Industriales y de Negocios
+* **UniTrack** | SaaS para gestión de activos críticos y telemetría de compresores (En Progreso).
+* **FloTrack** | Plataforma modular para gestión de flotas y control de combustible.
+* **Mágnum Ingeniería** | Sistema de gestión para mantenimiento industrial Oil & Gas - Tamaulipas, MX.
+* **CPC Oil & Gas** | Plataforma operativa para empresa EPC industrial Oil & Gas - Veracruz, MX.
+* **FLEXT Extintores** | Aplicación técnica para inspección y cumplimiento normativo de seguridad industrial.
+* **Smart HSE** | Consultoría digital en áreas de QHSE (Seguridad, Higiene y Ambiente).
+
+#### 🌐 Commercial & Web Presence | Presencia Web y Comercial
+* **Arepas Nene** | Solución web para sector hospitality y restauración - Florida, USA.
 * **CODATOS** | Plataforma e-learning para capacitación técnica en línea.
-* 
-#  * SERVICES' PLANS | PLANES DE SERVICIOS:
 
- ## *Analysis, Design/Redesign, Development and Deployment of Web Applications: | Análisis, Diseño/Rediseño, Desarrollo y Despliegue Aplicaciones Web:*
-  - Web-based or desktop-based | Basadas en Web o de escritorio
-  - Upgrades or redesigns of outdated software| Actualizaciones o rediseños de software anticuado
-  - Complete web apps, including hosting and email | App web completas, incluyendo hosting e email.
-  - Flexible plans | Planes ajustables según necesidad.
-  - Check out our plans | Consulte nuestros planes: [PLANES APPS](https://tensify.net/services?code=SER0001&name=Aplicaciones&icon=fas+fa-laptop)
-    
- ## *Diseño y desarrollo de Web Sites:*
-  - New or redesigned | Nuevos o rediseñados
-  - Hosting + email included. | Incluidos Hosting + email.
-  - Designs for startups, small/medium-sized businesses, industrial or personal | Diseños startups, pequeñas/medianas empresas, industriales o personales
-  - Check out our plans | Consulte nuestros planes: [PLANES WEB](https://tensify.net/services?code=SER0003&name=Websites&icon=fas+fa-drafting-compass)
-  
- ## *Capacitación PowerPoint:* curso: "Una cura para el Envenenamiento por PowerPoint"
-  *Una cura para el Envenenamiento por PowerPoint*:
-  Como evitar _"El Envenamiento por PowerPoint"_. Orientado a comunicar utilizando técnicas para desarrollar contenido de impacto. Desde lo macros a lo micro, manejan conceptos claves y amplios del proceso de comunicación que influyen es tus presentaciones. 
-  - Curso de PowerPoint con enfoque ampliado.
-  - Máximo 3 participantes modo Online - MS TEAMS - Negociable
-  - Incluye soporte de consultas (WhatsaApp según disponibilidad x 1 mes después de finalizar el curso) 
-  - Basico-Avanzado: Personal o In-Company CONTACTAR (avendanod@gmail.com)
-  - Consulte nuestros programas: [CURSOS](https://tensify.net/services?code=SER0004&name=Capacitación&icon=fas+fa-chalkboard-teacher)
-   
- ## *Capacitación Excel:* curso: "Evolución de habilidades con EXCEL":
- *Evolución de habilidades con EXCEL*:
-  Orientado a las soluciones, se enfatiza en el enfoque de vision amplia, previa y general de excel y su uso, más que en el uso propio de la herramienta. Módulo inicial del introducción donde se manejan conceptos claves.
-  - Curso de Excel con enfoque ampliado.
-  - Máximo 3 participantes modo Online - MS TEAMS - Negociable
-  - Incluye soporte de consultas (WhatsaApp según disponibilidad x 1 mes después de finalizar el curso) 
-  - Basico-Avanzado: Personal o In-Company CONTACTAR (avendanod@gmail.com)
-  - Consulte nuestros programas: [CURSOS](https://tensify.net/services?code=SER0004&name=Capacitación&icon=fas+fa-chalkboard-teacher)
+---
 
-## Manejo Experto/Instructor/Coaching
-![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![POWERPOINT](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![EXCEL](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+### 📦 SERVICE PLANS | PLANES DE SERVICIOS
+
+#### 💻 Web & SaaS Applications
+* **Development:** Analysis, design, and deployment of web or desktop-based apps.
+* **Complete Package:** Includes managed hosting and corporate email.
+* **Modernization:** Redesign of outdated legacy systems.
+* 🔗 [**VIEW APP PLANS | PLANES APPS**](https://tensify.net/services?code=SER0001&name=Aplicaciones&icon=fas+fa-laptop)
+
+#### 🏫 Training & Coaching | Capacitación de Alto Impacto
+* **"Cure for PowerPoint Poisoning":** High-impact communication techniques for professional presentations.
+* **"Excel Skills Evolution":** Problem-solving approach focused on data architecture, not just formulas.
+* **Format:** Online (MS Teams) | Personal or In-Company.
+* 🔗 [**VIEW COURSES | VER CURSOS**](https://tensify.net/services?code=SER0004&name=Capacitación&icon=fas+fa-chalkboard-teacher)
+
+---
+
+### 🔧 TOOLS & EXPERTISE
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+
+📧 **Contact:** [avendanod@gmail.com](mailto:avendanod@gmail.com)
 
 # * BIO:
 A big hello and welcome to my website, I'm David -d@p-, a designer and developer of web-based Apps.
