@@ -80,8 +80,8 @@
 
 Designer and developer focused on **Simplicity, Safety, and High-Impact solutions**. 
 
-With **11 years of background in human resources, compensation, and operations within the Venezuelan oil industry (PDVSA)**, I bring a solid foundation of technical rigor, procedural compliance, and enterprise discipline—translating complex operational requirements into clean, functional code.
+With **11 years of background in human resources, compensation, and others within the Venezuelan oil industry (PDVSA - until 2002)**, I bring a solid foundation of technical rigor, procedural compliance, and enterprise discipline—translating complex operational requirements into clean, functional solutions.
 
-> **"I don't just build apps; I solve process bottlenecks through software."**
+> **"I don't just build apps; I solve process bottlenecks through solutions."**
 
 📧 **Contact:** [avendanod@gmail.com](mailto:avendanod@gmail.com) | 🌐 [tensify.net](https://tensify.net/)
