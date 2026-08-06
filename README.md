@@ -1,4 +1,6 @@
-# 👨‍💻 DAVID AVENDAÑO | FULLSTACK DEVELOPER & SYSTEMS ANALYST
+![Alt Hola!](https://tensify.net/tensify.jpg)
+
+# 👨‍💻 DAVID AVENDAÑO | FULLSTACK DEVELOPER
 ### *Global services, personal attention. | Servicios globales, atención personal.*
 
 > **I bridge the gap between complex legal/industrial regulations and efficient software architecture.**  
