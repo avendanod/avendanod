@@ -1,6 +1,6 @@
 ![Alt Hola!](https://tensify.net/tensify.jpg)
 
-# 👨‍💻 DAVID AVENDAÑO | FULLSTACK DEVELOPER
+# DAVID AVENDAÑO | FULLSTACK DEVELOPER
 ### *Global services, personal attention. | Servicios globales, atención personal.*
 
 > **I bridge the gap between complex legal/industrial regulations and efficient software architecture.**  
@@ -8,7 +8,7 @@
 
 ---
 
-### 🧰 Tech Stack & Tools
+### Tech Stack & Tools
 
 **Languages & Web**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -34,7 +34,7 @@
 
 ---
 
-### 🚀 SPECIALIZED SERVICES | SERVICIOS ESPECIALIZADOS
+### SPECIALIZED SERVICES | SERVICIOS ESPECIALIZADOS
 
 * **SaaS Development:** Startups, Businesses, and Industrial solutions.
 * **Asset Management & Telemetry:** Remote data acquisition and real-time monitoring integration.
@@ -45,9 +45,9 @@
 
 ---
 
-### 🛠️ FEATURED PORTFOLIO | PORTAFOLIO DESTACADO
+### FEATURED PORTFOLIO | PORTAFOLIO DESTACADO
 
-#### 🏭 Industrial & Business Solutions | Soluciones Industriales y de Negocios
+#### Industrial & Business Solutions | Soluciones Industriales y de Negocios
 * **UniTrack** | SaaS para gestión de activos críticos y telemetría de compresores.
 * **FloTrack** | Plataforma modular para gestión de flotas y control de consumo/mantenimiento.
 * **Mágnum Ingeniería** | Sistema de gestión para mantenimiento industrial Oil & Gas (*Tamaulipas, MX*).
@@ -55,28 +55,28 @@
 * **FLEXT Extintores** | Inspección y cumplimiento normativo de seguridad industrial.
 * **Smart HSE** | Consultoría digital y cumplimiento en áreas de QHSE / SSPA.
 
-#### 🌐 Commercial & Web Solutions | Presencia Web y Comercial
+#### Commercial & Web Solutions | Presencia Web y Comercial
 * **WhiteHouse Services** | Plataforma comercial corporativa desarrollada en arquitectura modular moderna.
 * **Arepas Nene** | Solución web para sector hospitality y restauración (*Florida, USA*).
 * **CODATOS** | Plataforma e-learning para capacitación técnica en línea.
 
 ---
 
-### 📦 SERVICE PLANS & TRAINING | PLANES Y CAPACITACIÓN
+### SERVICE PLANS & TRAINING | PLANES Y CAPACITACIÓN
 
-#### 💻 Web & SaaS Applications
+#### SaaS Applications
 * **Development:** Analysis, design, and deployment of web-based apps.
 * **Complete Package:** Includes managed hosting and corporate infrastructure.
 * 🔗 [**VIEW APP PLANS | PLANES APPS**](https://tensify.net/services?code=SER0001&name=Aplicaciones&icon=fas+fa-laptop)
 
-#### 🏫 Training & Coaching | Capacitación de Alto Impacto
+#### Training & Coaching | Capacitación de Alto Impacto
 * **"Cure for PowerPoint Poisoning":** High-impact communication techniques for professional presentations.
 * **"Excel Skills Evolution":** Data architecture, business automation, and reporting efficiency.
 * 🔗 [**VIEW COURSES | VER CURSOS**](https://tensify.net/services?code=SER0004&name=Capacitación&icon=fas+fa-chalkboard-teacher)
 
 ---
 
-### 👨‍💻 ABOUT ME | ACERCA DE MÍ
+###  ABOUT ME | ACERCA DE MÍ
 
 Designer and developer focused on **Simplicity, Safety, and High-Impact solutions**. 
 
