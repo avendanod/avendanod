@@ -1,5 +1,4 @@
 ![Alt Hola!](https://tensify.net/tensify.jpg)
-
 # DAVID AVENDAÑO | FULLSTACK DEVELOPER
 ### *Global services, personal attention. | Servicios globales, atención personal.*
 
